@@ -6,6 +6,7 @@
 ```shell
 漏洞描述：
 用友 GRP-U8 UploadFileData接口存在任意文件上传漏洞，攻击者通过漏洞可以获取服务器权限
+
 fofa搜索语句：
 app="用友-GRP-U8"
 
