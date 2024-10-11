@@ -47,8 +47,6 @@ if __name__ == '__main__':
 
     # 添加命令行参数 处理这些参数
     parser.add_argument("-u", "--url", help="Specify the target URL for the attack")
-    parser.add_argument("-user", "--username", help="Specify the username")
-    parser.add_argument("-passwd", "--password", help="Specify the password")
     parser.add_argument("-f", "--file", help="Specify the username file")
   #  parser.add_argument("-m", "--mode", choices=["poc", "exp"], help="Specify the mode (poc or exp)")
     # 调用
