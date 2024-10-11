@@ -38,6 +38,7 @@ __  ____  __      __________  ____        __  ______        ________  __
     # 修改横幅信息
     print(logo)
     print("用友GRP-U8-FileUpload任意文件上传漏洞检测工具")
+    print("writen by loml13yyy")
 
 
 if __name__ == '__main__':
